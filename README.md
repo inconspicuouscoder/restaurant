@@ -99,5 +99,3 @@ query {
   }
 }
 ```
-
-This README provides basic instructions on how to run the project locally, how to run the tests, and example queries that can be used in the GraphQL Playground. Adjust the content as needed to fit your specific project requirements.
